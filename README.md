@@ -115,19 +115,6 @@ Camemberts
 
 
 
-Structure du Dépôt
-📦 Projet-OpenFoodFacts-Analysis
-│
-├── data/
-│   └── openfoodfacts_cleaned.csv       # Dataset nettoyé depuis Colab
-│
-├── dashboard/
-│   └── openfoodfacts_dashboard.pbix    # Tableau de bord Power BI
-│
-├── notebooks/
-│   └── cleaning_openfoodfacts.ipynb    # Le notebook Google Colab exporté
-│
-└── README.md                           # Documentation du projet
 
 
 
