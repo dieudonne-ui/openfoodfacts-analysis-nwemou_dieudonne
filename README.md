@@ -155,11 +155,3 @@ Développeur Web FullStack(javascipt) • Africa citizen Data Scientist
 dieudonnenwemou4@gmail.com
 +229 01 66 03 85 12
 📍 Bénin
-
-
-
-
-
-Répartition des produits par pays
-
-Analyse du score nutritionnel
